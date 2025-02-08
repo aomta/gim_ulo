@@ -2,5 +2,8 @@
 
 🚀 Fitur<br>
 <ul>
- <il>There are Three Difficulties that you can choose </il>
+ There are Three Difficulties that you can choose 
+ 1. Easy
+ 2. Normal
+ 3. Difficult
 </ul>
